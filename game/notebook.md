@@ -11,6 +11,10 @@
 - [ ] Walking Stick
 
 ## Notes
-*Use this space to record your findings and deductions...*
-
-Location of the crime is still unknown - the room must have been empty when it happened...
+*Ubicación del crimen: Cottage - Living Room*
+*Baker - mansion*
+*Artist, Clockmaker - library (en mansion)*
+*Leather gloves - gazebo*
+*Doctor - playground*
+*Police officer - cafeteria*
+*Iron poker - kitchen*
