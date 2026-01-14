@@ -1,7 +1,7 @@
 ## Misterio Solventado:
 - Culpable: Jardinero (the gardener)
 - Arma utilizada: Bastón (walking stick)
-- Lugar: Sala de la mansión (living room)
+- Lugar: Sala (living room)
 
 
 # Mystery in the Small Town: A Command Line Investigation Game
