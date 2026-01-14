@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Gardener
-- [ ] The Florist
+- [X] The Florist
 - [ ] The Tailor
 
 ## Weapons
@@ -19,3 +19,4 @@
 *Police officer - cafeteria*
 *Iron poker - kitchen*
 *Journalist - town hall*
+*Florist, Mayor - bakery/storage*
