@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Gardener
 - [X] The Florist
-- [ ] The Tailor
+- [X] The Tailor
 
 ## Weapons
 - [X] Old Key
@@ -20,3 +20,5 @@
 *Iron poker - kitchen*
 *Journalist - town hall*
 *Florist, Mayor - bakery/storage*
+*Bronze trophy - park/playground*
+*Tailor, Chef - cottage/cellar*
