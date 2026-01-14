@@ -7,7 +7,7 @@
 
 ## Weapons
 - [X] Old Key
-- [ ] Kitchen Knife
+- [X] Kitchen Knife
 - [ ] Walking Stick
 
 ## Notes
@@ -22,3 +22,6 @@
 *Florist, Mayor - bakery/storage*
 *Bronze trophy - park/playground*
 *Tailor, Chef - cottage/cellar*
+*Kitchen knife, garden shears - greenhouse*
+
+*Por ende, el culpable es el jardinero con un bastón en la sala*

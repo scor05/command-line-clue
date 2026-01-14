@@ -1,3 +1,9 @@
+## Misterio Solventado:
+- Culpable: Jardinero (the gardener)
+- Arma utilizada: Bastón (walking stick)
+- Lugar: Sala de la mansión (living room)
+
+
 # Mystery in the Small Town: A Command Line Investigation Game
 
 Welcome, Detective! A crime has occurred in our small town, and we need your command line investigation skills to solve it. You'll explore different locations, gather clues, and use your powers of deduction to find the culprit.
