@@ -6,7 +6,7 @@
 - [ ] The Tailor
 
 ## Weapons
-- [ ] Old Key
+- [X] Old Key
 - [ ] Kitchen Knife
 - [ ] Walking Stick
 
@@ -18,3 +18,4 @@
 *Doctor - playground*
 *Police officer - cafeteria*
 *Iron poker - kitchen*
+*Journalist - town hall*
